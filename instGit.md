@@ -11,3 +11,5 @@ git remote add awesomeapp https://github.com/someurl..
 git branch -M main
 git push -u origin main
 ```
+Можно использовать несколько команд `git help` - справка по всем командам и `git clone` - клонирование репозитария с гитхаба на локалку
+
